@@ -3,7 +3,8 @@ let score = "hitesh"
 //console.log(typeof score);
 //console.log(typeof(score));
 
-let valueInNumber = Number(score)
+let valueInNumber = Number(score) //number k andar score pass krdiya
+
 //console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
