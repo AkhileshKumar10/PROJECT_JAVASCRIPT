@@ -27,5 +27,5 @@ let state;
 
 // object
 
-console.log(typeof undefined); // undefined
-console.log(typeof null); // object
+console.log(typeof undefined); //  iski value undefined  reheg undefined  iska output undefined he ata h
+console.log(typeof null); // iska output object ayega 
