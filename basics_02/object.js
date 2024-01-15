@@ -20,7 +20,7 @@ const JsUser = {
 // console.log(JsUser.email) jab humko object accces krna h tohh jo log ratta marte h woh aise krte h
 console.log(JsUser.email)
 console.log(JsUser["email"])// email ek string h therefore hum "" ka use krte h
-console.log(JsUser["full name"])
+console.log(JsUser["full name"]) // square notation  se he hum print ya acesss krkste h
 // console.log(JsUser[mySym])
 
 // JsUser.email = "hitesh@chatgpt.com"
