@@ -8,7 +8,7 @@ const mySym = Symbol("key1")
 
 const JsUser = {
     name: "Hitesh",
-    "full name": "Hitesh Choudhary",
+    "full name": "Hitesh Choudhary", // hamere pass koi bhi tareka nahi h jo ki hum is value ko dot se acess krpaye
     [mySym]: "mykey1",
     age: 18,
     location: "Jaipur",
