@@ -40,11 +40,18 @@ const obj2 ={1:"a", 4: "b"}
 // { '1': 'a', '4': 'b' } } object k andr object
 // to counter the problem
 
-const obj3 = Object.assign({}, obj1 , obj2)
+//const obj3 = Object.assign({}, obj1 , obj2)
 // perfect output
 //{ '1': 'a', '2': 'b', '4': 'b' }
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
 //refer above for object source
+//console.log(obj3);
+
+
+//by using spread method
+
+const obj1 ={1:"a", 2: "b"}
+const obj2 ={1:"a", 4: "b"}
+
+const obj3 ={...obj1, ...obj2}
 console.log(obj3);
-
-
