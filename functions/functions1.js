@@ -49,6 +49,10 @@ function addTwoNumbers(number1, number2){
 const result = addTwoNumbers(3, 5)
 
 // console.log("Result: ", result);
+//result k ander ki value undefined h aisa kyun?
+//aisa isliye kyunki console bas console value 
+//print krta h return nahi krta
+
 
 
 function loginUserMessage(username = "sam"){
