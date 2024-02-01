@@ -50,16 +50,16 @@ const obj2 ={1:"a", 4: "b"}
 
 //by using spread method
 
-const obj1 ={1:"a", 2: "b"}
-const obj2 ={1:"a", 4: "b"}
+// const obj1 ={1:"a", 2: "b"}
+// const obj2 ={1:"a", 4: "b"}
 
-const obj3 ={...obj1, ...obj2}
-console.log(obj3);
+// const obj3 ={...obj1, ...obj2}
+// console.log(obj3);
 
 
 
-//NOW FOR ARRAYS
-const obj3 = {...obj1, ...obj2}
+// //NOW FOR ARRAYS
+// const obj3 = {...obj1, ...obj2}
 // console.log(obj3);
 
 
