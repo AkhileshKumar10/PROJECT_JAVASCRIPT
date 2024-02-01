@@ -36,6 +36,8 @@ function sayMyName(){
 // }
 
 function addTwoNumbers(number1, number2){
+    //function ki defination lete h toh jo bhi
+    //inputs lete h use parameter bolte h
 
     // let result = number1 + number2
     // return result
