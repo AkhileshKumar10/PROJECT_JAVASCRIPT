@@ -61,6 +61,9 @@ function loginUserMessage(username = "sam"){
         return
     }
     return `${username} just logged in`
+    //uper wali line m function ne value toh retutn 
+    //krdi pr kahin hmne print nahi kiya isliye k
+    //bhi nahi print hua
 }
 
 // console.log(loginUserMessage("hitesh"))
