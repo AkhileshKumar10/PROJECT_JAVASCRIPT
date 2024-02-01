@@ -40,4 +40,4 @@ console.log(JsUser.greeting());
 console.log(JsUser.greetingTwo());
 
 /************************/
-ek symbol lo usko
+//ek symbol lo usko
