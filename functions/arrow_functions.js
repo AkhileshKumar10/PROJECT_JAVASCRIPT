@@ -5,7 +5,15 @@ const user ={
 
 
     welcomemessage: function(){
-    console.log(`$ {} welcome to the webasite`);
-    
+    console.log(`${this.username} ,welcome to the webasite`);
+
     }
 }
+
+// user.welcomemessage()
+// user.username ="akhilesh"
+// user.welcomemessage()
+//yahan pr humne hardocding nahi kri h yahan pr hamne current context ki value seedhi print krdi h
+// this keyword is used to access the current context
+
+
