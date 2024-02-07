@@ -5,6 +5,7 @@ const user ={
 
 
     welcomemessage: function(){
-        return "Welcome " + this.username
+    console.log(`$ {} welcome to the webasite`);
+    
     }
 }
