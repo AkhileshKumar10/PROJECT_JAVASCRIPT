@@ -76,6 +76,7 @@ chai()
 const addTwo = (num1, num2) => ({username: "hitesh"})
 
 //yeh above example implict arrow return function ki exmaple
+//menaing mne man liya apko return  likhne ki zarurat nahi
 
 console.log(addTwo(3, 4))
 
