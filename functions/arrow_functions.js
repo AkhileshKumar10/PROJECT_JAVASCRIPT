@@ -54,7 +54,7 @@ const chai =  () => {
     console.log(this);
 }
 
-
+//this ka context yeh h ki yeh object k ander he kam krha h function k ander kam nahi krha
 // chai()
 
 // const addTwo = (num1, num2) => {
