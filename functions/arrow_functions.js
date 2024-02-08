@@ -77,8 +77,9 @@ const addTwo = (num1, num2) => ({username: "hitesh"})
 
 //yeh above example implict arrow return function ki exmaple
 //menaing mne man liya apko return  likhne ki zarurat nahi
-//curly braces m rap kra th rettun keyword likhna padega
+//curly braces {} m rap kra th rettun keyword likhna padega
 //agr parenthis  () m rap kra toh return keyword nahi likhna padega
+//react m bhaut use ayegyi babu
 
 console.log(addTwo(3, 4))
 
