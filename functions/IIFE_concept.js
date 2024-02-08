@@ -22,3 +22,6 @@ op()
 ( (name) => {
     console.log(`DB CONNECTED TWO ${name}`);
 } )('hitesh')
+
+// ()first parenthis jahan pr function ki defination likhne wale h
+//() () yeh second wala execution h
