@@ -31,14 +31,18 @@ const user = {
 // user.username = "sam"
 // user.welcomeMessage()
 
+
+
+//some important notes
+//js engine browser k ander hota tha global object tabhi window object hota h
 // console.log(this);
 
-// function chai(){
-//     let username = "hitesh"
-//     console.log(this.username);
-// }
+function chai(){
+    let username = "hitesh"
+    console.log(this.username);
+}
 
-// chai()
+chai()
 
 // const chai = function () {
 //     let username = "hitesh"
@@ -71,6 +75,3 @@ console.log(addTwo(3, 4))
 
 // myArray.forEach()
 
-
-//some important notes
-//js engine browser k ander hota tha global object tabhi window object hota h
