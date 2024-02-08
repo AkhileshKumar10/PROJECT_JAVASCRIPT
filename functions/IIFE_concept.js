@@ -14,14 +14,16 @@ op()
 // Immediately Invoked Function Expressions (IIFE)
 
 
+
+
+// ()first parenthis jahan pr function ki defination likhne wale h
+//() () yeh second wala execution h
+
 (function chai(){
     // named IIFE
     console.log(`DB CONNECTED`);
 })();
 
-( (name) => {
-    console.log(`DB CONNECTED TWO ${name}`);
-} )('hitesh')
 
 // yeh hitecsh wale exmaple m iffe function invoke toh hogya h 
 // lekin usko pata nhi h context rokan kahan h
@@ -32,7 +34,9 @@ op()
 //     console.log(`DB CONNECTED`);
 // })();
 
-// ()first parenthis jahan pr function ki defination likhne wale h
-//() () yeh second wala execution h
 
+
+( (name) => {
+    console.log(`DB CONNECTED TWO ${name}`);
+} )('Akhilesh')
 
