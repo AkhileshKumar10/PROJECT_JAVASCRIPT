@@ -49,13 +49,16 @@ chai()
 //     console.log(this.username);
 // }
 
-const chai =  () => {
-    let username = "hitesh"
-    console.log(this);
-}
+// const chai =  () => { //fuction keyword ko hta diya aur usko arrow se replace krke arrow function banadiya
+//     let username = "hitesh"
+//     console.log(this);
+// }
 
 //this ka context yeh h ki yeh object k ander he kam krha h function k ander kam nahi krha
 // chai()
+
+
+
 
 // const addTwo = (num1, num2) => {
 //     return num1 + num2
