@@ -29,12 +29,16 @@ op()
 // lekin usko pata nhi h context rokan kahan h
 //a ise situation hmein usko end krna padega semicolon se
 // example below
+
+
+
 // (function chai(){
-//     // named IIFE
+//     // named IIFE kyunki iksa name h chai
+
 //     console.log(`DB CONNECTED`);
 // })();
 
-
+//neeche wala unnamed iife
 
 ( (name) => {
     console.log(`DB CONNECTED TWO ${name}`);
