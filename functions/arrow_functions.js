@@ -81,6 +81,9 @@ const addTwo = (num1, num2) => ({username: "hitesh"})
 //agr parenthis  () m rap kra toh return keyword nahi likhna padega
 //react m bhaut use ayegyi babu
 
+//explict return tabh hua jab hmein retutn keyword lagan pad rha h
+
+
 console.log(addTwo(3, 4))
 
 
