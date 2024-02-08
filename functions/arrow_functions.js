@@ -60,6 +60,7 @@ chai()
 //this ka context yeh h ki yeh object k ander he kam krha h function k ander kam nahi krha
 // chai()
 
+// ()=> {} the basic syntax of arrow fucntion
 
 
 
