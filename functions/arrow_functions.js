@@ -54,6 +54,9 @@ chai()
 //     console.log(this);
 // }
 
+
+//arrow vs simple fucntion ka difference pata kre interview k liye
+
 //this ka context yeh h ki yeh object k ander he kam krha h function k ander kam nahi krha
 // chai()
 
