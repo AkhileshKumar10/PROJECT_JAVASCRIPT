@@ -23,5 +23,16 @@ op()
     console.log(`DB CONNECTED TWO ${name}`);
 } )('hitesh')
 
+// yeh hitecsh wale exmaple m iffe function invoke toh hogya h 
+// lekin usko pata nhi h context rokan kahan h
+//a ise situation hmein usko end krna padega semicolon se
+// example below
+// (function chai(){
+//     // named IIFE
+//     console.log(`DB CONNECTED`);
+// })();
+
 // ()first parenthis jahan pr function ki defination likhne wale h
 //() () yeh second wala execution h
+
+
