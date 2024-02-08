@@ -75,6 +75,7 @@ chai()
 
 const addTwo = (num1, num2) => ({username: "hitesh"})
 
+//yeh above example implict arrow return function ki exmaple
 
 console.log(addTwo(3, 4))
 
