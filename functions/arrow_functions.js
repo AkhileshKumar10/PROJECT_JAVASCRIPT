@@ -83,6 +83,7 @@ const addTwo = (num1, num2) => ({username: "hitesh"})
 
 //explict return tabh hua jab hmein retutn keyword lagan pad rha h
 
+const addtwo ={num1,num2}=>({username :"akhilesh"})
 
 console.log(addTwo(3, 4))
 
