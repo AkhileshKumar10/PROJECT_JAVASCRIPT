@@ -74,7 +74,7 @@ chai()
 // const addTwo = (num1, num2) => ( num1 + num2 )
 
 const addTwo = (num1, num2) => ({username: "hitesh"})
-
+///
 //yeh above example implict arrow return function ki exmaple
 //menaing mne man liya apko return  likhne ki zarurat nahi
 //curly braces {} m rap kra th rettun keyword likhna padega
@@ -83,7 +83,7 @@ const addTwo = (num1, num2) => ({username: "hitesh"})
 
 //explict return tabh hua jab hmein retutn keyword lagan pad rha h
 
-const addtwo ={num1,num2}=>({username :"akhilesh"})
+const addtwo ={num1,num2}=>({username :"akhilesh"});
 
 console.log(addTwo(3, 4))
 
