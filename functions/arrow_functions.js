@@ -68,7 +68,7 @@ chai()
 //     return num1 + num2
 // } // yeh wala example basic arrow fucntion h
 
-
+//this function adds two number
 // const addTwo = (num1, num2) =>  num1 + num2
 
 // const addTwo = (num1, num2) => ( num1 + num2 )
