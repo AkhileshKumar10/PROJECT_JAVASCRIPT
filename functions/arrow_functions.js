@@ -74,7 +74,7 @@ chai()
 // const addTwo = (num1, num2) => ( num1 + num2 )
 ///padhp age badho
 
-
+//op
 const addTwo = (num1, num2) => ({username: "hitesh"})
 
 //yeh above example implict arrow return function ki example
