@@ -40,3 +40,15 @@
 // @shubhamtyagi2901
 // 5 months ago
 // If you can elaborate a little more on the demo part, like how to do things over there on browser, anyways u've done a good job 👍my friend
+
+
+
+function one(){
+    console.log("one")
+}
+function two(){
+    console.log("two")
+}
+function three(){
+    console.log("three")
+}
