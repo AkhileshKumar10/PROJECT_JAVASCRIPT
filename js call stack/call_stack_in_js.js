@@ -42,6 +42,7 @@
 // If you can elaborate a little more on the demo part, like how to do things over there on browser, anyways u've done a good job 👍my friend
 
 
+//check the below in browser
 
 function one(){
     console.log("one")
