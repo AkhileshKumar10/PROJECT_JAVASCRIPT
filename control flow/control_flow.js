@@ -16,6 +16,8 @@ const temperature = 41
 
 // if (score > 100) {
 //     let power = "fly"
+//POWER SCOPE K ANDER DECLARE HE NAHI HONA CHAIYE BALKI SCOPE K BHAR DECLARE HONA CHAOYE
+
 //     console.log(`User power: ${power}`);
 // }
 
