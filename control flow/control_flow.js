@@ -53,6 +53,8 @@ if (userLoggedIn && debitCard && 2==3) {
 
 if (loggedInFromGoogle || loggedInFromEmail) {
     //PIPE SIGN MULTIPLE CONDITION K LIYE USE HOTA H
-    
+
     console.log("User logged in");
 }
+
+//YEH JO LOGIN WALA H ISSE HUM REACT M USE KRENGE
