@@ -9,8 +9,8 @@
 
 const month=3
 switch (month) {
-    case value:
-        
+    case 1:
+        console.log("Jan")
         break;
 
     default:
