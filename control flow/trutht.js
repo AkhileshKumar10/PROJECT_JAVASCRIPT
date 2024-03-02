@@ -12,7 +12,9 @@ if (userEmail) {
 // false, 0, -0, BigInt 0n, "", null, undefined, NaN
 
 //truthy values
-// "0", 'false', " ", [], {}, function(){}
+// "0", 'false', " ", [], {}, function(){} //yeh bagal wala empty function h
+
+// string k ander mne "0" likha to woh truthy value hue
 
 // if (userEmail.length === 0) {
 //     console.log("Array is empty");
@@ -23,6 +25,7 @@ const emptyObj = {}
 if (Object.keys(emptyObj).length === 0) {
     console.log("Object is empty");
 }
+//yeh above ka code ka use krke hum yeh check krsakte h ki object empty h ya nahi
 
 // Nullish Coalescing Operator (??): null undefined
 
