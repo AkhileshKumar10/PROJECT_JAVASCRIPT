@@ -23,6 +23,7 @@ const temperature = 41
 
 // console.log(`User power: ${power}`);
 
+//SHORT HAND NOTATION
 
 // const balance = 1000
 
@@ -51,5 +52,7 @@ if (userLoggedIn && debitCard && 2==3) {
 }
 
 if (loggedInFromGoogle || loggedInFromEmail) {
+    //PIPE SIGN MULTIPLE CONDITION K LIYE USE HOTA H
+    
     console.log("User logged in");
 }
