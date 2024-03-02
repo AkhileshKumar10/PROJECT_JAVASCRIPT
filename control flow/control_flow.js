@@ -1,6 +1,7 @@
 // if
 const isUserloggedIn = true
 const temperature = 41
+//=== CHECKS TYPE
 
 // if ( temperature === 40 ){
 //     console.log("less than 50");
