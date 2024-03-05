@@ -9,6 +9,20 @@ for (let i = 0; i <= 10; i++) {
     
 }
 
+for (let i=0; i<=10;i++){
+    const element =1;
+    if(element==5){
+        console.log("5 is the best answer");
+
+    }
+    console.log(element);
+
+}
+// You have initialized the variable element with the value 1.
+// The loop runs from i = 0 to i = 10.
+// Inside the loop, you have a conditional statement: if (element == 5).
+// Since element is always 1, the condition is never met, and the code inside the if block (console.log("5 is the best answer");) is never executed.
+
 // console.log(element);
 
 for (let i = 1; i <= 10; i++) {
