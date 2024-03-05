@@ -1,2 +1,1 @@
-# js_journey
-documentation of my javascript  journrey
+# javascript project building everyday
