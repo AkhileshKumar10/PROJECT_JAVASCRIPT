@@ -24,6 +24,7 @@ for (let i=0; i<=10;i++){
 // Since element is always 1, the condition is never met, and the code inside the if block (console.log("5 is the best answer");) is never executed.
 
 // console.log(element);
+/////
 
 for (let i = 1; i <= 10; i++) {
     //console.log(`Outer loop value: ${i}`);
