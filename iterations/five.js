@@ -15,9 +15,10 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 
 // coding.forEach(printMe)
 
-// coding.forEach( (item, index, arr)=> {
-//     console.log(item, index, arr);
-// } )
+coding.forEach( (item, index, arr)=> {
+    console.log(item, index, arr);
+} ) //yeh jo 2 lines h uper wali m usmein har ek element k pass sare array ka access h 
+
 
 // const myCoding = [
 //     {
@@ -34,9 +35,10 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 //     },
 // ]
 
-// myCoding.forEach( (item) => {
-    
-//     console.log(item.languageName);
+// myCoding.forEach( (item) => { //yeh callback lagya h
+//      yeh hamne jo ifdher kiya h na flipkart waghera m jab hum mobile waghera search krte h toh kitne 
+//      mobile ajte h aur ek individual mobile jo item h uska card ban jatea h wahj use hot ah 
+// //     console.log(item.languageName);
 // } )
 
 
