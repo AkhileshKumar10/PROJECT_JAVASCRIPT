@@ -28,15 +28,16 @@ map.set('IN', "India")
 
 //console.log(map);
 
-for (const [key, value] of map) {//key aur value ko alga alag hold kiya humne 
-    //therefor array destructure
-    onsole.log(key, ':-', value);
-}
+// for (const [key, value] of map) {//key aur value ko alga alag hold kiya humne 
+//     //therefor array destructure
+//     onsole.log(key, ':-', value);
+// }
 
 const myObject = {
     game1: 'NFS',
     game2: 'Spiderman'
 }
+//yeh upper wala error dega lyunki object iteratable nahi h
 
 // for (const [key, value] of myObject) {
 //     console.log(key, ':-', value);
