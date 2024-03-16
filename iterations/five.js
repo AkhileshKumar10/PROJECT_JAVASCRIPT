@@ -2,7 +2,8 @@ const coding = ["js", "ruby", "java", "python", "cpp"]
 
 // coding.forEach( function (val){
 //     console.log(val);
-// } )
+// } ) // yeh uper ki 2 line call bata rhe h
+
 
 // coding.forEach( (item) => {
 //     console.log(item);
