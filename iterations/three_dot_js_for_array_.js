@@ -26,10 +26,11 @@ map.set('IN', "India")
 
 //maps m value unique hogi aur jis order m enter ki h usi order m rehti h
 
-console.log(map);
+//console.log(map);
 
-for (const [key, value] of map) {
-    // console.log(key, ':-', value);
+for (const [key, value] of map) {//key aur value ko alga alag hold kiya humne 
+    //therefor array destructure
+    onsole.log(key, ':-', value);
 }
 
 const myObject = {
