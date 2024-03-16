@@ -6,7 +6,7 @@ const myObject = {
 }
 
 for (const key in myObject) {
-    //console.log(`${key} shortcut is for ${myObject[key]}`);
+    //console.log(`${key}  //variable inject krdiya shortcut is for ${myObject[key]}`);
 }
 
 const programming = ["js", "rb", "py", "java", "cpp"]
