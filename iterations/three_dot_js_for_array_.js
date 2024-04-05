@@ -30,16 +30,17 @@ map.set('IN', "India")
 
 // for (const [key, value] of map) {//key aur value ko alga alag hold kiya humne 
 //     //therefor array destructure
-//     onsole.log(key, ':-', value);
+//     console.log(key, ':-', value);
 // }
 
 const myObject = {
     game1: 'NFS',
     game2: 'Spiderman'
 }
-//yeh upper wala error dega lyunki object iteratable nahi h
+//yeh upper wala error dega kyunki object iteratable nahi h
 
 // for (const [key, value] of myObject) {
 //     console.log(key, ':-', value);
     
 // }
+//maps are irtrateble but objects are not
