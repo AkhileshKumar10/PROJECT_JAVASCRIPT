@@ -25,6 +25,8 @@ do {
     console.log(`Score is ${score}`);
     score++
 } while (score <= 10);
+//do while wale m kaam pehle hota h condition bad m check hoti h
+
 
 //yeh h udhari wala system jahan score pehle print hoga 
 //aur kam yani score += bad m hua
