@@ -20,26 +20,26 @@ coding.forEach( (item, index, arr)=> {
 } ) //yeh jo 2 lines h uper wali m usmein har ek element k pass sare array ka access h 
 
 
-// const myCoding = [
-//     {
-//         languageName: "javascript",
-//         languageFileName: "js"
-//     },
-//     {
-//         languageName: "java",
-//         languageFileName: "java"
-//     },
-//     {
-//         languageName: "python",
-//         languageFileName: "py"
-//     },
-// ]
+const myCoding = [
+    {
+        languageName: "javascript",
+        languageFileName: "js"
+    },
+    {
+        languageName: "java",
+        languageFileName: "java"
+    },
+    {
+        languageName: "python",
+        languageFileName: "py"
+    },
+]
 
-// myCoding.forEach( (item) => { //yeh callback lagya h
+ myCoding.forEach( (item) => { //yeh callback lagya h
 //      yeh hamne jo ifdher kiya h na flipkart waghera m jab hum mobile waghera search krte h toh kitne 
 //      mobile ajte h aur ek individual mobile jo item h uska card ban jatea h wahj use hot ah 
-// //     console.log(item.languageName);
-// } )
+console.log(item.languageName);
+} )
 
 
 function printMe(item) {
