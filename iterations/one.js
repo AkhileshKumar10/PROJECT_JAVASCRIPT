@@ -3,11 +3,23 @@
 for (let i = 0; i <= 10; i++) {
     const element = i;
     if (element == 5) {
-        //console.log("5 is best number");
+        console.log("5 is best number");
     }
-    //console.log(element);
-    
-}
+    console.log(element);
+//     //ismein pehle numbe rprint hua fi r 5 is best number ata
+// }
+// 0
+// 1
+// 2
+// 3
+// 4
+// 5 is best number
+// 5
+// 6
+// 7
+// 8
+// 9
+10
 
 for (let i=0; i<=10;i++){
     const element =1;
